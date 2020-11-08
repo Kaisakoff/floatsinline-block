@@ -1,1 +1,1 @@
-# floatsinline-block
+# float & inline-block
